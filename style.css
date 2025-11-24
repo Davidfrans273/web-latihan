@@ -25,8 +25,6 @@ body {
 
 .li-navbar {
     list-style-type: none;
-    padding: 12px 25px;
-    margin: 10px;
     color: white;
     font-size: 20px;
 }
@@ -100,4 +98,5 @@ body {
 
 .h1-footer {
     color: white;
+
 }
